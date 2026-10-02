@@ -1,0 +1,5 @@
+# scripts/prepare_data.py 실행 시 실제 경로로 다시 생성됨
+train: dataset/images/train
+val: dataset/images/val
+nc: 2
+names: ['정상', '이상']

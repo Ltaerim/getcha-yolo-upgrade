@@ -1,0 +1,7 @@
+{
+  "resize_min": 8.960694456100464,
+  "v5_train_min": 131.7906606356303,
+  "yolo26s_train_min": 158.8901312748591,
+  "before_epoch_min": 19.2,
+  "after_v5_epoch_min": 4.393022021187677
+}
